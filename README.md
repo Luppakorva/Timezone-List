@@ -8,7 +8,7 @@
 ## Feature
 - Render a timezone listbox (select element) in Laravel
 - Render a timezone array in Laravel
-- fix for laravel 6.0 : [original package](https://github.com/JackieDo/Timezone-List)
+- fix for laravel 8.0 : [original package](https://github.com/JackieDo/Timezone-List)
 
 ## Versions and compatibility
 
