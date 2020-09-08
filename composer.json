@@ -1,5 +1,5 @@
 {
-    "name": "yupmin/timezonelist",
+    "name": "luppakorva/timezonelist",
     "description": "A small package use to create a timezone list box in Laravel",
     "keywords": ["timezone", "timezones", "timezonelist", "laravel"],
     "license": "MIT",
